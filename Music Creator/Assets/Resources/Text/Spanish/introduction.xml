@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<element title="welcome_message">Bienvenido a Music Creator</element>
+	<element title="introduction_message">Crea música desde 0 de manera simple, divertida y profesional</element>
+	<element title="tutorial01">Primero selecciona un instrumento (Bajo, guitarra, caja, piano, sintetizador, percusión, trompeta o saxofón)</element>
+	<element title="tutorial02">Luego selecciona un sonido del instrumento seleccionado (Puedes arrastrar hacia arriba para usar más sonidos)</element>
+	<element title="tutorial03">Y finalmente selecciona el compás para el sonido que seleccionaste)</element>
+	<element title="tutorial04">Aquí puedes silenciar o desilenciar los instrumentos que quieras mientras realizas tu composición</element>
+	<element title="tutorial05_01">Usa el botón de PLAY y PAUSA para detener y reiniciar la reproducción de tu composición</element>
+	<element title="tutorial05_02">Ajusta la velocidad de composición de tu composición</element>
+	<element title="tutorial06_01">Navegar entre las diferentes secciones de tu composición</element>
+	<element title="tutorial06_02">Aumenta o reduce secciones a tu composición</element>
+
+</data>
